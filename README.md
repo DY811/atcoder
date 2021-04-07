@@ -1,1 +1,1 @@
-# atcoderに提出したコードを保存します。
+Archive AtCoder's accepted (AC) codes.
