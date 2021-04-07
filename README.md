@@ -1,1 +1,1 @@
-# atcoder
+# atcoderに提出したコードを保存します。
