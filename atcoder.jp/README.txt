@@ -9,3 +9,4 @@ https://book.mynavi.jp/macfan/detail_summary/id=42064
 
 #automator scheduling reference URL
 https://www.wholenotism.com/blog/2020/04/timeredexecommand.html
+#スリープ設定に気をつける（電源忘れずに！）
