@@ -1,5 +1,5 @@
 Archive AtCoder's accepted (AC) codes.
-AtCoder上でACになったコードをアーカーブします。
+AtCoder上でACになったコードをアーカイブします。
 
 #procon-gardener reference URL
 https://qiita.com/togatoga/items/3e8fd0042dc8be702201
