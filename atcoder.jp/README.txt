@@ -1,5 +1,6 @@
 Archive AtCoder's accepted (AC) codes.
 AtCoder上でACになったコードをアーカイブします。
+コミットの時間はAtCoderにsubmitした時間になります。
 
 #procon-gardener reference URL
 https://qiita.com/togatoga/items/3e8fd0042dc8be702201
